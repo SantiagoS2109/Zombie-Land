@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}</ProjectGuid>
+    <ProjectGuid>{62F6B263-1D22-E5CE-3C78-5B12131D10B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
+    <Compile Include="Assets\Scripts\MainMenuScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
